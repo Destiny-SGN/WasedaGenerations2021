@@ -1,0 +1,2 @@
+# WasedaGenerations2021
+早稲田大学の学園祭イベント早稲田祭で行われるeSports大規模大会「Waseda Generations 2021」に関するファイルの共有および管理
